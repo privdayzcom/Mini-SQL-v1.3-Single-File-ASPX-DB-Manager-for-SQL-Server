@@ -13,7 +13,7 @@
 
 ## 🚀 What is this?
 
-**PrivDayz Adminer** is a lightweight but surgical ASP.NET SQL Server interface designed for rapid database control, penetration testing labs, internal tools, or grey-area dashboards.
+**PrivDayz Adminer** is a lightweight but surgical ASP.NET SQL Server interface designed for rapid database control.
 
 This script gives you full control over your SQL Server instance through:
 
