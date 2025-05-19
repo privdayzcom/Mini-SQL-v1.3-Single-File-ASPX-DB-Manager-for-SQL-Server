@@ -10,7 +10,7 @@
 ![badge](https://img.shields.io/badge/secured-ajax--powered-red)
 
 ---
-
+![SQL-Admin-Panel.jpg](SQL-Admin-Panel.jpg)
 ## 🚀 What is this?
 
 **PrivDayz Adminer** is a lightweight but surgical ASP.NET SQL Server interface designed for rapid database control.
